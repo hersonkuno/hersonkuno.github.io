@@ -2,4 +2,4 @@
 title: her son, kuno
 ---
 
-This is my content.
+![](img/hsk.JPG "her son, kuno")
