@@ -1,6 +1,0 @@
-#!/bin/bash
-
-# run as ./compile for all .md files
-for f in *.md; do
-    pandoc "$f" -s -o "${f%.md}.html"
-done
